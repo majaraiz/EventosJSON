@@ -208,19 +208,5 @@
     "participantes": 100,
     "tipo": "Fiesta",
     "url": "https://example.com/cierre-ano"
-  },
-  {
-    "color": "silver",
-    "descripcion": "Pruebassss.",
-    "estado": true,
-    "fecha": "2023-12-31T22:00:00Z",
-    "idEvento": 16,
-    "imagen": "https://example.com/imagen-inexistente.jpg",
-    "latitud": 45.4168,
-    "longitud": -13.7038,
-    "nombre": "Se acabo",
-    "participantes": 100,
-    "tipo": "Fiesta",
-    "url": "https://www.google.com"
   }
 ]
