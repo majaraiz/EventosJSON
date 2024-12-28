@@ -209,4 +209,19 @@
     "tipo": "Fiesta",
     "url": "https://example.com/cierre-ano"
   }
+  ,
+  {
+    "color": "silver",
+    "descripcion": "Fiesasdasdadasdle.",
+    "estado": true,
+    "fecha": "2023-12-31T22:00:00Z",
+    "idEvento": 16,
+    "imagen": "https://example.com/imagen-inexistente.jpg",
+    "latitud": 42.4168,
+    "longitud": -13.7038,
+    "nombre": "Pruebasssss",
+    "participantes": 100,
+    "tipo": "Fiesta",
+    "url": "https://www.google.com"
+  }
 ]
