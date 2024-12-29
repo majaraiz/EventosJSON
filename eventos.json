@@ -90,12 +90,12 @@
     "fecha": "2023-11-25T09:00:00Z",
     "idEvento": 7,
     "imagen": "https://picsum.photos/id/14/200/300",
-    "latitud": 40.4168,
-    "longitud": -3.7038,
+    "latitud": 40.42013158848525,
+    "longitud": -3.733055168325294,
     "nombre": "Maratón de Madrid",
     "participantes": 500,
     "tipo": "Varios",
-    "url": "https://example.com/maraton-madrid"
+    "url": "https://www.mediomaratonmadrid.es/"
   },
   {
     "color": "pink",
@@ -109,7 +109,7 @@
     "nombre": "Exposición de Arte",
     "participantes": 30,
     "tipo": "Cultura",
-    "url": "https://example.com/exposicion-arte"
+    "url": "https://www.moma.org/"
   },
   {
     "color": "lightgreen",
@@ -123,7 +123,7 @@
     "nombre": "Taller de Cocina",
     "participantes": 12,
     "tipo": "Cocina",
-    "url": "https://example.com/taller-cocina"
+    "url": "https://www.rtve.es/play/masterchef/"
   },
   {
     "color": "cyan",
@@ -137,7 +137,7 @@
     "nombre": "Noche de Trivia",
     "participantes": 25,
     "tipo": "Varios",
-    "url": "https://example.com/noche-trivia"
+    "url": "https://es.wikipedia.org/wiki/Trivial_Pursuit"
   },
   {
     "color": "gold",
@@ -151,7 +151,7 @@
     "nombre": "Festival de Cine",
     "participantes": 200,
     "tipo": "Cultura",
-    "url": "https://example.com/festival-cine"
+    "url": "https://sitgesfilmfestival.com/es"
   },
   {
     "color": "forestgreen",
@@ -165,7 +165,7 @@
     "nombre": "Caminata por la Naturaleza",
     "participantes": 15,
     "tipo": "Varios",
-    "url": "https://example.com/caminata-naturaleza"
+    "url": "https://www.xn--caondelriolobos-zqb.com/rutas-senderismo.html"
   },
   {
     "color": "black",
@@ -179,7 +179,7 @@
     "nombre": "Torneo de Ajedrez",
     "participantes": 16,
     "tipo": "Varios",
-    "url": "https://example.com/torneo-ajedrez"
+    "url": "https://ajedrezdiagonal.es/"
   },
   {
     "color": "orange",
@@ -193,7 +193,7 @@
     "nombre": "Feria de Emprendedores",
     "participantes": 50,
     "tipo": "Fiesta",
-    "url": "https://example.com/feria-emprendedores"
+    "url": "https://www.madridemprende.es/"
   },
   {
     "color": "silver",
@@ -207,7 +207,7 @@
     "nombre": "Cierre de Año",
     "participantes": 100,
     "tipo": "Fiesta",
-    "url": "https://example.com/cierre-ano"
+    "url": "https://www.ohyeahparty.com/"
   }
   
 ]
