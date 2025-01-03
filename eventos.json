@@ -208,19 +208,5 @@
     "participantes": 100,
     "tipo": "Fiesta",
     "url": "https://www.ohyeahparty.com/"
-  },
-  {
-    "color": "silver",
-    "descripcion": "Fiesasdasdadasdle.",
-    "estado": true,
-    "fecha": "2023-12-31T22:00:00Z",
-    "idEvento": 16,
-    "imagen": "https://example.com/imagen-inexistente.jpg",
-    "latitud": 25.680465465756445,
-    "longitud":  -100.34081273969441,
-    "nombre": "Pruebasssss",
-    "participantes": 100,
-    "tipo": "Fiesta",
-    "url": "https://www.google.com"
   }
 ]
