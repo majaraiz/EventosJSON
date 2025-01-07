@@ -208,5 +208,19 @@
     "participantes": 100,
     "tipo": "Fiesta",
     "url": "https://www.ohyeahparty.com/"
+  },
+  {
+    "color": "silver",
+    "descripcion": "Le damos al LOL.",
+    "estado": true,
+    "fecha": "2023-12-31T22:00:00Z",
+    "idEvento": 16,
+    "imagen": "https://www.ucamdeportes.com/sites/default/files/styles/noticia_199/public/fotos-noticias/2024-12/la-ucam-campeona-universitaria-de-espana-de-league-legends-y-valorant.jpg?h=9241ff27&itok=kr7Q6ftl",
+    "latitud": 25.680465465756445,
+    "longitud":  -100.34081273969441,
+    "nombre": "Evento LOL de pruebas",
+    "participantes": 53,
+    "tipo": "LOL",
+    "url": "https://www.ucamdeportes.com/esports"
   }
 ]
